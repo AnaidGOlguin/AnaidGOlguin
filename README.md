@@ -1,3 +1,4 @@
+![Portada-Github](https://user-images.githubusercontent.com/86994867/127941526-b57a2c9c-8b40-414e-ac02-49a4b321f9b7.png)
 - 👋 Hi, I'm @AnaidGOlguin
 - 👀 I'm interested in data analytics. 
 - 🌱 I'm currently learning python for data science
