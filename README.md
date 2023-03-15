@@ -2,14 +2,11 @@
 🤖 Cloud computing engineer and data analyst.
 
 ☁ Certifications:  
--Azure Data Engineer 
--Cloud Computing
--SAP4HANA
--Datawarehouse
--Google Cloud
--AWS
+Azure DP + AZ Cloud Computing,- SAP4HANA, Datawarehouse, Google Cloud, AWS
 
 🪴 SQL, Python, Docker.
+
+☂ English, Spanish, Portuguese, Japanese.
 
 <!---
 AnaidGOlguin/AnaidGOlguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
