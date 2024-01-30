@@ -4,7 +4,7 @@
 ☁ Certifications:  
 Azure DP + AZ Cloud Computing,- SAP4HANA, Datawarehouse, Google Cloud, AWS
 
-🪴 SQL, Python, ABAP,  Docker.
+🪴 SQL, Python, Linux, ABAP
 
 ☂ English, Spanish, Portuguese, Japanese.
 
